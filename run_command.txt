@@ -1,0 +1,1 @@
+python train.py --config-dir=/home/shilpa/RL/diffusion_policy/diffusion_policy/config --config-name=train_diffusion_transformer_lowdim_pusht_workspace.yaml training.seed=42
